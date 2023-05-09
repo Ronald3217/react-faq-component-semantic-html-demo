@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Why This Price?",
+    "paragraph": "Because we buy the products together with other users, we can offer an affordable price for people who want to try the software. \" **Please note that we are under no obligation to provide personalized assistance\", But we do everything possible so that the installation / start-up process of the product is successful.",
+    "colors": {
+      "title": "red",
+      "paragraph": "white"
+    }
+  },
+  {
+    "title": "How many devices are available to use?",
+    "paragraph": "As many as you want, we do not limit the devices to use."
+  },
+  {
+    "title": "Don't receive product after payment?",
+    "paragraph": "Our delivery system is semi-automatic, sometimes the delivery take more time was expected.",
+    "colors": {
+      "title": "#f09",
+      "paragraph": "#09f"
+    }
+  }
+]
