@@ -10,10 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
     "highlight.js": "^11.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-faq-component-semantic-html": "1.0.1"
+    "react-faq-component-semantic-html": "1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
